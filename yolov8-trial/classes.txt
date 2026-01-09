@@ -1,0 +1,19 @@
+person
+bicycle
+motorcycle
+car
+truck
+bus
+train
+boat
+bottle
+chair
+sheep
+cow
+elephant
+bear
+stop sign
+bench
+bus
+traffic light
+fire hydrant
