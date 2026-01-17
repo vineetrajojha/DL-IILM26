@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 import numpy as np
 
-cap = cv2.VideoCapture("pedestrian.mp4")
+cap = cv2.VideoCapture("dataset/pedestrian.mp4")
 
 model = YOLO('yolov8m.pt')
 
